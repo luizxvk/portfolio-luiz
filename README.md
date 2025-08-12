@@ -1,4 +1,5 @@
 # Luiz's Portfolio
+<img width="1272" height="718" alt="image" src="https://github.com/user-attachments/assets/a289561c-199a-45a1-9232-8f5a832ab0cd" />
 
 ## Overview
 
